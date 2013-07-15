@@ -594,3 +594,4 @@ account. Please look through the test suite before running it.
 
 Blake Miner is not affliated with Twilio, Inc. in any way.
 Use this software AT YOUR OWN RISK. See LICENSE for more details.
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/916dfe285a2e44b06ad20677500d2b1e "githalytics.com")](http://githalytics.com/jonmarkgo/node-twilio-api)
